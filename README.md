@@ -1,1 +1,2 @@
-# CWB-18-Final-Project
+# Creative Web Design: Final Project
+This is my final project for the training.
